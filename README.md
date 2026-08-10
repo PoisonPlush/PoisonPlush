@@ -31,14 +31,14 @@
 <img width="150" height="20" alt="007n7" src="https://github.com/user-attachments/assets/8a995a51-7a7e-4272-85e0-c604595f4aba" />
 
 <p align="center">
-<img width="150" height="84" alt="STARS" src="https://github.com/user-attachments/assets/d2b168bc-972c-4e0e-b6b9-7956232babc9" />
+<img width="99" height="56" alt="STARS" src="https://github.com/user-attachments/assets/d2b168bc-972c-4e0e-b6b9-7956232babc9" />
 <img width="97" height="57" alt="look" src="https://github.com/user-attachments/assets/a47630a4-da15-47ed-9231-6b8ad35a2b77" />
 <img width="99" height="56" alt="sml" src="https://github.com/user-attachments/assets/1c7bace6-3750-432d-b47f-9bdcdf0c8bfd" />
-<img width="300" height="182" alt="build" src="https://github.com/user-attachments/assets/34db26f4-b2dd-4397-91bb-315297deee95" />
-<img width="101" height="57" alt="jolteon" src="https://github.com/user-attachments/assets/e0cca590-f73f-4c3e-ae57-8d180871c6c8" />
-<img width="198" height="112" alt="dblfdr" src="https://github.com/user-attachments/assets/345ba77b-13ef-45fc-9500-0414b34fe333" />
+<img width="99" height="56" alt="build" src="https://github.com/user-attachments/assets/34db26f4-b2dd-4397-91bb-315297deee95" />
+<img width="99" height="56" alt="jolteon" src="https://github.com/user-attachments/assets/e0cca590-f73f-4c3e-ae57-8d180871c6c8" />
+<img width="99" height="56" alt="dblfdr" src="https://github.com/user-attachments/assets/345ba77b-13ef-45fc-9500-0414b34fe333" />
 <img width="100" height="57" alt="n7" src="https://github.com/user-attachments/assets/1273dcb9-f714-40c8-8fe6-d549c7cc40e8" />
-<img width="139" height="79" alt="i heart rolx myths" src="https://github.com/user-attachments/assets/d8c4c5d5-d8d6-4c84-9193-95a47faa94c6" />
+<img width="99" height="56" alt="i heart rolx myths" src="https://github.com/user-attachments/assets/d8c4c5d5-d8d6-4c84-9193-95a47faa94c6" />
 
 <p align="center">
 <img width="150" height="20" alt="chicknburger" src="https://github.com/user-attachments/assets/3a99578f-7249-4e3d-908b-5c0b1ab47baa" />
@@ -47,10 +47,15 @@
 <img width="150" height="20" alt="noli" src="https://github.com/user-attachments/assets/cdff6486-6d20-4792-ba8a-2845c233c0bd" />
 
 <p align="center">
-<img width="198" height="112" alt="FCUK AI" src="https://github.com/user-attachments/assets/4dc6e8df-03da-4191-9aee-8a0ffc27f831" />
+<img width="99" height="56" alt="FCUK AI" src="https://github.com/user-attachments/assets/4dc6e8df-03da-4191-9aee-8a0ffc27f831" />
 <img width="99" height="56" alt="love freaks" src="https://github.com/user-attachments/assets/21da169c-3930-4f89-986b-41283181d9da" />
+<img width="99" height="56" alt="B4LLS" src="https://github.com/user-attachments/assets/d44a4a15-1547-4adc-ba15-280eb0af4da9" />
+<img width="99" height="56" alt="yaoi" src="https://github.com/user-attachments/assets/812dcd6b-73f5-41eb-bf2b-1eeb531472cf" />
+<img width="99" height="56" alt="undiagnosed" src="https://github.com/user-attachments/assets/ce8ce229-eb7c-456f-89a8-84f67af2fd2a" />
+<img width="99" height="56" alt="fnaftism" src="https://github.com/user-attachments/assets/41f62119-b3f7-4a41-8428-2d8d276c445a" />
+<img width="99" height="56" alt="fnafcrack" src="https://github.com/user-attachments/assets/bdba889e-b0d0-416e-bcde-0477c4a1cd1a" />
+<img width="99" height="56" alt="suck at talking" src="https://github.com/user-attachments/assets/a8562071-369b-418d-8455-1c10c25dd4bd" />
 
-  
 <p align="center">
 <img width="150" height="20" alt="ao3" src="https://github.com/user-attachments/assets/e64e20cf-08d2-4ac8-88a6-942c626323bd" />
 <img width="150" height="20" alt="circus" src="https://github.com/user-attachments/assets/5b8668a6-29d1-4627-aacb-4bf2a4979d2c" />
@@ -58,6 +63,14 @@
 <img width="150" height="20" alt="stressed" src="https://github.com/user-attachments/assets/0e640274-bcd9-4d23-b4b3-456a60b5f5b5" />
 
 <p align="center">
+<img width="99" height="57" alt="killer in the mirror" src="https://github.com/user-attachments/assets/d7e09b2f-f378-44aa-a51d-adce75277e22" />
+<img width="99" height="56" alt="caution" src="https://github.com/user-attachments/assets/443d18e4-1dc7-4c80-b445-88114ab66776" />
+<img width="99" height="56" alt="comedy" src="https://github.com/user-attachments/assets/4e3fcc12-ce10-45d4-a257-eaae19228f16" />
+<img width="99" height="56" alt="clock" src="https://github.com/user-attachments/assets/34deb24b-a4d5-4af6-b5b9-9a50461cfb41" />
+<img width="99" height="55" alt="antlers" src="https://github.com/user-attachments/assets/f32e0bd0-5998-49e6-870b-546249b3379c" />
+<img width="99" height="56" alt="rain" src="https://github.com/user-attachments/assets/6b7ef8f4-4a48-47e5-a223-3fd21be84138" />
+<img width="98" height="56" alt="rabbits" src="https://github.com/user-attachments/assets/d9a0e7ce-8d8c-4884-9262-f0dd3641045d" />
+<img width="99" height="56" alt="mintchoco" src="https://github.com/user-attachments/assets/85a730db-071d-4525-8553-c06114a1994b" />
 
 <p align="center">
 <img width="150" height="20" alt="migrane" src="https://github.com/user-attachments/assets/c859243e-2d46-4af6-ae97-768941016e40" />
