@@ -8,6 +8,15 @@
 <img width="99" height="60" alt="demir0" src="https://github.com/user-attachments/assets/7e9cf0c5-e6aa-4b08-adef-207a3052fe86" />
 <img width="99" height="56" alt="07" src="https://github.com/user-attachments/assets/119ad9dd-3bf5-4e92-b272-f3be6c065a8a" />
 
+
+<p align="center">
+uhh t3xt or smth idk th1s is st1ll a w1p
+<p align="center">
+b3 gay d0 crim3s 
+<p align="center">
+ch3ckm 0ut my sp [ev3n tho 1ts a b1t outd4ted] and 4tab00k 
+
+
 <p align="center">
 <img width="150" height="20" alt="fleshhearts" src="https://github.com/user-attachments/assets/4d76b076-6a26-4f5d-9bad-19148fbbfd0b" />
 <img width="150" height="20" alt="love my bf" src="https://github.com/user-attachments/assets/a62c3cc9-5fda-46d2-9f41-7fcad64f80c0" />
