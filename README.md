@@ -78,5 +78,9 @@
 <img width="150" height="20" alt="depersonalize" src="https://github.com/user-attachments/assets/8f4b0790-398d-43c9-8137-2e832d54163d" />
 <img width="150" height="20" alt="dissociate" src="https://github.com/user-attachments/assets/2ae3b63d-de31-4c03-8dc8-f6a74f71ddc0" />
 
-wo4h
+<p align="center">
+<img width="1024" height="41" alt="star div" src="https://github.com/user-attachments/assets/dd25d005-3b39-4c0e-9b2c-c7a8803f77ff" />
+
+4rt tim3 but 1 draw 0nce ev3ry c3ntury/j
+
 <img width="2480" alt="chanc" src="https://github.com/user-attachments/assets/884577dc-929b-492f-87b1-519f51a752c1" />
