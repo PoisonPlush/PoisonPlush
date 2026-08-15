@@ -84,3 +84,7 @@
 4rt tim3 but 1 draw 0nce ev3ry c3ntury/j
 
 <img width="2480" alt="chanc" src="https://github.com/user-attachments/assets/884577dc-929b-492f-87b1-519f51a752c1" />
+
+
+<p align="center">
+<img width="2048" height="226" alt="tumblr_ffddcf0b937e444b31d87e6939cb71fb_d4738e34_2048" src="https://github.com/user-attachments/assets/61237546-07e0-4a85-87ac-a10f80937f57" />
